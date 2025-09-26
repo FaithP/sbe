@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "'Atkinson Hyperlegible Mono','Droid Sans Mono', 'monospace', monospace",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnPaste": true,
+    "editor.autoIndentOnPaste": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
