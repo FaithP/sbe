@@ -10,7 +10,7 @@ Feature: Greeting
 
 @1
     Scenario: Generic Greeting
-    Given a person who has all the prerequisites for using the agent
+    Given the agent and a person are prepared to interact
     When the person first interacts with the agent
     Then the agent says "Hello! Let's spec!".
 
